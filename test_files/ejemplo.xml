@@ -1,0 +1,1230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Business</title>
+    <link>https://www.nytimes.com/section/business</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Business.xml" rel="self" type="application/rss+xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2025 The New York Times Company</copyright>
+    <lastBuildDate>Mon, 05 May 2025 19:08:31 +0000</lastBuildDate>
+    <pubDate>Mon, 05 May 2025 18:50:33 +0000</pubDate>
+    <image>
+      <title>NYT &gt; Business</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/business</link>
+    </image>
+    <item>
+      <title>Trump’s Cuts to Science Funding Could Hurt U.S. Economy, Study Shows</title>
+      <link>https://www.nytimes.com/2025/04/30/business/trump-science-funding-cuts-economy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/04/30/business/trump-science-funding-cuts-economy.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/04/30/business/trump-science-funding-cuts-economy.html" rel="standout"/>
+      <description>Reducing federal support for research and development could cause long-run economic damage and reduce government revenue.</description>
+      <dc:creator>Ben Casselman</dc:creator>
+      <pubDate>Wed, 30 Apr 2025 09:01:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recession and Depression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gross Domestic Product</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2025/04/30/multimedia/30biz-research-cuts-wqfh/30biz-research-cuts-wqfh-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Joanna Kulesza for The New York Times</media:credit>
+      <media:description>The Trump administration in recent months has sought to cancel or freeze billions of dollars in grants to scientists.</media:description>
+    </item>
+    <item>
+      <title>Chinese Factories Slow in Early Sign of Trade War’s Toll</title>
+      <link>https://www.nytimes.com/2025/04/30/business/china-pmi-factory-manufacturing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/04/30/business/china-pmi-factory-manufacturing.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/04/30/business/china-pmi-factory-manufacturing.html" rel="standout"/>
+      <description>A slowdown in commerce between the United States and China caused by escalating tariffs was evident in a report Wednesday on manufacturing activity in April.</description>
+      <dc:creator>Daisuke Wakabayashi</dc:creator>
+      <pubDate>Wed, 30 Apr 2025 18:41:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Bureau of Statistics (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/04/30/multimedia/30biz-china-econ-cjgq/30biz-china-econ-cjgq-mediumSquareAt3X-v2.jpg" width="1800"/>
+      <media:credit>Qilai Shen for The New York Times</media:credit>
+      <media:description>A garment factory in Guangzhou, China, this month.</media:description>
+    </item>
+    <item>
+      <title>As Trump Cuts Foreign Aid, What Does It Mean for the Gates Foundation?</title>
+      <link>https://www.nytimes.com/2025/04/30/business/bill-gates-foundation-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/04/30/business/bill-gates-foundation-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/04/30/business/bill-gates-foundation-trump.html" rel="standout"/>
+      <description>As the Trump administration dismantles foreign aid, Bill Gates, whose philanthropy is devoted to global health, is trying to talk to anyone with the president’s ear.</description>
+      <dc:creator>Theodore Schleifer and Stephanie Nolen</dc:creator>
+      <pubDate>Wed, 30 Apr 2025 16:09:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gates, Bill</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2025/04/30/multimedia/30gates-anxiety-mwjl/30gates-anxiety-mwjl-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Alex Welsh for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Trump Signs Executive Order Walking Back Some Auto Tariffs</title>
+      <link>https://www.nytimes.com/2025/04/29/us/politics/trump-auto-tariffs-executive-order.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/04/29/us/politics/trump-auto-tariffs-executive-order.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/04/29/us/politics/trump-auto-tariffs-executive-order.html" rel="standout"/>
+      <description>Most levies on imported cars and car parts will remain in place, but automakers have secured some relaxation of the trade policy.</description>
+      <dc:creator>Ana Swanson and Jack Ewing</dc:creator>
+      <pubDate>Wed, 30 Apr 2025 01:15:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Motors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ford Motor Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Stellantis NV</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2025/04/30/multimedia/30DC-CARTARIFFS-tcql/29DC-CARTARIFFS-tcql-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Nic Antaya for The New York Times</media:credit>
+      <media:description>A Ford assembly plant in Wayne, Mich. Automakers have welcomed any relaxation of tariffs, which they said would raise car prices, cause sales to fall and threaten their financial viability.</media:description>
+    </item>
+    <item>
+      <title>How Trump May Unintentionally Cut Carbon Emissions</title>
+      <link>https://www.nytimes.com/2025/04/29/business/economy/trump-recession-carbon-emissions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/04/29/business/economy/trump-recession-carbon-emissions.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/04/29/business/economy/trump-recession-carbon-emissions.html" rel="standout"/>
+      <description>Despite his administration’s lack of concern about climate change, a recession would give the atmosphere a break. At least in the short term.</description>
+      <dc:creator>Lydia DePillis</dc:creator>
+      <pubDate>Tue, 29 Apr 2025 19:45:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recession and Depression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Behavior</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Protectionism (Trade)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2025/04/24/multimedia/00biz-tariffs-climate-vid-vczl/00biz-tariffs-climate-vid-vczl-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Maggie Shannon for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>With Trump In Power, Foreign Crypto Companies Make Inroads in US</title>
+      <link>https://www.nytimes.com/2025/04/29/technology/trump-crypto-tether.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/04/29/technology/trump-crypto-tether.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/04/29/technology/trump-crypto-tether.html" rel="standout"/>
+      <description>The prime example is Tether, a firm that regulators once targeted. Its chief executive recently hobnobbed in Washington with lawmakers and lobbyists.</description>
+      <dc:creator>David Yaffe-Bellany and Kenneth P. Vogel</dc:creator>
+      <pubDate>Thu, 01 May 2025 14:25:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coins</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tether Operations Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hagerty, William F</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lutnick, Howard W</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCarthy, Kevin (1965- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Miller, Jeff (1974- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ardoino, Paolo</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/04/30/business/00biz-tether/00biz-tether-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Illustration by Zak Bickel/The New York Times; Photographs by Jussi Puikkonen for The New York Times; Eric Lee/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>How Spain’s Success in Renewable Energy May Have Left Its Power Grid Vulnerable</title>
+      <link>https://www.nytimes.com/2025/04/29/business/spain-renewable-energy-power-grid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/04/29/business/spain-renewable-energy-power-grid.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/04/29/business/spain-renewable-energy-power-grid.html" rel="standout"/>
+      <description>The Iberian Peninsula’s widespread blackout raises questions about the resilience of the electric power infrastructure in the two countries — and to an extent, the rest of Europe.</description>
+      <dc:creator>Stanley Reed and Jenny Gross</dc:creator>
+      <pubDate>Tue, 29 Apr 2025 17:13:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Portugal</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/04/29/multimedia/29biz-spain-grid-01-hkfw/29biz-spain-grid-01-hkfw-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Jon Nazca/Reuters</media:credit>
+      <media:description>Candles burned in the reception area of a hotel in Ronda, Spain, in the early morning on Tuesday, after a power outage across the Iberian Peninsula.</media:description>
+    </item>
+    <item>
+      <title>Retailers Fear Toy Shortages at Christmas as Tariffs Freeze Supply Chain</title>
+      <link>https://www.nytimes.com/2025/04/29/business/trump-tariffs-christmas-china.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/04/29/business/trump-tariffs-christmas-china.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/04/29/business/trump-tariffs-christmas-china.html" rel="standout"/>
+      <description>Toy makers and stores are freezing holiday orders, predicting shortages and higher prices. Some are consulting bankruptcy lawyers, fearing their firms won’t survive.</description>
+      <dc:creator>Daisuke Wakabayashi</dc:creator>
+      <pubDate>Wed, 30 Apr 2025 18:49:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Toys</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Christmas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2025/04/29/multimedia/00Biz-Tariffs-Christmas-01-qmlp/00Biz-Tariffs-Christmas-01-qmlp-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Colin Sussingham for The New York Times</media:credit>
+      <media:description>The Aldik Home store in Los Angeles, which sells artificial Christmas trees and other decorations, is running promotions on some of its products before the tariffs take effect.</media:description>
+    </item>
+    <item>
+      <title>UPS to Cut 20,000 Jobs and Slash Amazon Deliveries to Trim Costs</title>
+      <link>https://www.nytimes.com/2025/04/29/business/ups-layoffs-trump-tariffs.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/04/29/business/ups-layoffs-trump-tariffs.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/04/29/business/ups-layoffs-trump-tariffs.html" rel="standout"/>
+      <description>The move comes as President Trump’s tariffs are reducing shipping volumes and is in addition to 12,000 job cuts last year.</description>
+      <dc:creator>Peter Eavis</dc:creator>
+      <pubDate>Tue, 29 Apr 2025 21:41:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Delivery Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Parcel Service Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Brotherhood of Teamsters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tome, Carol</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/04/30/multimedia/30biz-ups-layoffs-bwvz/29biz-ups-layoffs-bwvz-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Maansi Srivastava/The New York Times</media:credit>
+      <media:description>UPS has some 490,000 employees, many of whom are members of the Teamsters union.</media:description>
+    </item>
+    <item>
+      <title>Controllers Briefly Lost Contact With Planes at Newark Last Week, Union Official Says</title>
+      <link>https://www.nytimes.com/2025/05/05/nyregion/newark-airport-delays-disruptions-issues.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/05/nyregion/newark-airport-delays-disruptions-issues.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/05/nyregion/newark-airport-delays-disruptions-issues.html" rel="standout"/>
+      <description>The disclosure came as disruptions at the airport, brought about by staffing shortages, runway construction and bad weather, entered a second week.</description>
+      <dc:creator>Michael Levenson, Mark Walker, Christine Hauser and Christine Chung</dc:creator>
+      <pubDate>Mon, 05 May 2025 18:43:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Newark (NJ)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Traffic Control</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Delays (Transportation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kirby, Scott (1967- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/05/multimedia/05xp-newark-01-zhgp/05xp-newark-01-zhgp-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Hiroko Masuike/The New York Times</media:credit>
+      <media:description>Since last week, travelers have faced lengthy delays at Newark Liberty International Airport because of staffing shortages, equipment problems, construction and inclement weather. </media:description>
+    </item>
+    <item>
+      <title>As Backlash to Trump’s Tariffs Grows, Europe Boycotts American Brands</title>
+      <link>https://www.nytimes.com/2025/05/05/business/tariffs-europe-boycott-american-goods.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/05/business/tariffs-europe-boycott-american-goods.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/05/business/tariffs-europe-boycott-american-goods.html" rel="standout"/>
+      <description>A shifting perception of the United States amid President Trump’s trade war is prompting Europeans to pivot decisively away from U.S. goods and services.</description>
+      <dc:creator>Liz Alderman</dc:creator>
+      <pubDate>Mon, 05 May 2025 18:50:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boycotts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Central Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kempczinski, Chris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/05/multimedia/05biz-europe-boycott-01-pkvh/05biz-europe-boycott-01-pkvh-mediumSquareAt3X-v2.jpg" width="1800"/>
+      <media:credit>Christopher Furlong/Getty Images</media:credit>
+      <media:description>A Nike store in Rome. European consumers are starting to avoid U.S. products and services, according to a European Central Bank survey.</media:description>
+    </item>
+    <item>
+      <title>Cyberattack on UnitedHealth Leaves Medical Providers in Debt</title>
+      <link>https://www.nytimes.com/2025/05/05/health/unitedhealth-cyberattack-loans-lawsuits.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/05/health/unitedhealth-cyberattack-loans-lawsuits.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/05/health/unitedhealth-cyberattack-loans-lawsuits.html" rel="standout"/>
+      <description>The company lent roughly $9 billion to practices affected by a vast cyberattack on its payment systems last year. Medical practices are now suing the health care colossus, saying it is pressuring them to repay funds.</description>
+      <dc:creator>Benjamin Ryan</dc:creator>
+      <pubDate>Mon, 05 May 2025 16:14:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Medical Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Medicare and Medicaid Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Optum Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">UnitedHealth Group Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minneapolis (Minn)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2025/05/05/multimedia/05HS-CYBER-UNITED-01-clmf/05HS-CYBER-UNITED-01-clmf-mediumSquareAt3X-v2.jpg" width="1800"/>
+      <media:credit>Caroline Yang for The New York Times</media:credit>
+      <media:description>Dr. John Odom, left, and Meghan Klein, at their sports medicine practice in Eden Prairie, Minn.</media:description>
+    </item>
+    <item>
+      <title>Scott Bessent Urges Investors to Bet on Trump’s Economic Plan</title>
+      <link>https://www.nytimes.com/2025/05/05/us/politics/bessent-trump-trade-economy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/05/us/politics/bessent-trump-trade-economy.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/05/us/politics/bessent-trump-trade-economy.html" rel="standout"/>
+      <description>The Treasury secretary urged executives and entrepreneurs to look beyond the Trump administration’s trade agenda.</description>
+      <dc:creator>Alan Rappeport</dc:creator>
+      <pubDate>Mon, 05 May 2025 18:01:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Overtime</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Investments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/05/multimedia/05dc-bessent-wvlg/05dc-bessent-wvlg-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Haiyun Jiang for The New York Times</media:credit>
+      <media:description>Treasury Secretary Scott Bessent has been working to ease concerns among global investors that the president’s trade plans will destabilize the global economy.</media:description>
+    </item>
+    <item>
+      <title>A Reporter Takes Pause at the Career Pause</title>
+      <link>https://www.nytimes.com/2025/05/05/insider/mini-retirement-trend.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/05/insider/mini-retirement-trend.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/05/insider/mini-retirement-trend.html" rel="standout"/>
+      <description>Fed up with being overworked or unfulfilled, some young people are quitting their jobs to take “mini-retirements,” a trend that caught the eye of a Times journalist.</description>
+      <dc:creator>Isabella Kwai</dc:creator>
+      <pubDate>Mon, 05 May 2025 14:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pensions and Retirement Plans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Retirement</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/05/multimedia/05a2_insider-miniretirement-tfgw/05a2_insider-miniretirement-tfgw-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Christopher Capozziello for The New York Times</media:credit>
+      <media:description>Sandra De La Cruz left her job in the construction industry to take a career hiatus.</media:description>
+    </item>
+    <item>
+      <title>What Buffett’s Exit Means</title>
+      <link>https://www.nytimes.com/2025/05/05/business/dealbook/what-buffetts-exit-means.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/05/business/dealbook/what-buffetts-exit-means.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/05/business/dealbook/what-buffetts-exit-means.html" rel="standout"/>
+      <description>Tens of thousands were on hand to see the billionaire announce his plans to retire. Their attention is already focusing on what is next for the conglomerate he built.</description>
+      <dc:creator>Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Edmund Lee</dc:creator>
+      <pubDate>Mon, 05 May 2025 12:13:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Buffett, Warren E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Munger, Charles T</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abel, Gregory E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Berkshire Hathaway Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Omaha (Neb)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sorkin, Andrew Ross</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Retirement</category>
+      <media:content height="1498" medium="image" url="https://static01.nyt.com/images/2025/05/05/multimedia/05db-buffett-flkv/05db-buffett-flkv-mediumSquareAt3X.jpg" width="1497"/>
+      <media:credit>Nati Harnik/Associated Press</media:credit>
+      <media:description>It’s the end of an era as Berkshire Hathaway’s Warren Buffett has announced he’ll retire by year-end.</media:description>
+    </item>
+    <item>
+      <title>Why Warren Buffett’s Departure from Berkshire Hathaway Matters</title>
+      <link>https://www.nytimes.com/2025/05/05/business/dealbook/buffett-berkshire-hathaway-abel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/05/business/dealbook/buffett-berkshire-hathaway-abel.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/05/business/dealbook/buffett-berkshire-hathaway-abel.html" rel="standout"/>
+      <description>At the annual meeting of Berkshire Hathaway, known as “Woodstock for capitalists,” many wept at the departure of a singular figure in the business world.</description>
+      <dc:creator>Andrew Ross Sorkin</dc:creator>
+      <pubDate>Mon, 05 May 2025 14:46:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Berkshire Hathaway Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Buffett, Warren E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abel, Gregory E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Capitalism (Theory and Philosophy)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2025/05/05/world/05dealbook-buffet/05dealbook-buffet-mediumSquareAt3X-v2.jpg" width="1800"/>
+      <media:credit>Jason Lee/Reuters</media:credit>
+      <media:description>Warren Buffett won an enormous following because of his success and his values. His planned exit from Berkshire Hathaway raises questions about what will happen to the enterprise he built.</media:description>
+    </item>
+    <item>
+      <title>Donald Jr. and Eric Trump Pursue New Deals That Would Enrich President Trump</title>
+      <link>https://www.nytimes.com/2025/05/05/us/politics/eric-donald-jr-trump-family-deals.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/05/us/politics/eric-donald-jr-trump-family-deals.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/05/us/politics/eric-donald-jr-trump-family-deals.html" rel="standout"/>
+      <description>Donald Trump Jr. and Eric Trump spent the past two weeks traveling the world and announcing new ventures involving billions of dollars.</description>
+      <dc:creator>Eric Lipton and David Yaffe-Bellany</dc:creator>
+      <pubDate>Mon, 05 May 2025 12:26:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nepotism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conflicts of Interest</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Consumer Financial Protection Bureau</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Securities and Exchange Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">1789 Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Trump Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Eric F (1984- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Abu Dhabi (United Arab Emirates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bulgaria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Doha (Qatar)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dubai (United Arab Emirates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgetown (Washington, DC)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/04/30/multimedia/04dc-TrumpMoney/30int-trump-gulf1-zvbk-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Karim Jaafar/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Eric Trump in Doha, the Qatari capital, on Wednesday, looking over a model of a development the Trump Organization plans to build there.</media:description>
+    </item>
+    <item>
+      <title>The Fed Isn’t Likely to Cut Rates Proactively Despite Economic Concerns. Here’s Why.</title>
+      <link>https://www.nytimes.com/2025/05/05/business/fed-interest-rates-economy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/05/business/fed-interest-rates-economy.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/05/business/fed-interest-rates-economy.html" rel="standout"/>
+      <description>The U.S. central bank is set to reinforce its wait-and-see approach at its meeting this week as President Trump’s tariffs begin to bite.</description>
+      <dc:creator>Colby Smith</dc:creator>
+      <pubDate>Mon, 05 May 2025 18:06:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Behavior</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/05/multimedia/05dc-fed-gvcl/05dc-fed-gvcl-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Anna Rose Layden for The New York Times</media:credit>
+      <media:description>The Federal Reserve is widely expected to keep interest rates steady when officials gather this week.</media:description>
+    </item>
+    <item>
+      <title>Farmers in Iowa Are Caught in Trump’s Trade War</title>
+      <link>https://www.nytimes.com/2025/05/05/business/soy-farmers-struggle-with-trade-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/05/business/soy-farmers-struggle-with-trade-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/05/business/soy-farmers-struggle-with-trade-war.html" rel="standout"/>
+      <description>With high costs and low prices for their crops, soybean and corn farmers were already nervous as they planned for planting season this year. Tariffs aren’t helping.</description>
+      <dc:creator>Julie Creswell</dc:creator>
+      <pubDate>Mon, 05 May 2025 18:08:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soybeans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iowa</category>
+    </item>
+    <item>
+      <title>A Grand Comeback for a Grand Seaside Hotel</title>
+      <link>https://www.nytimes.com/2025/05/05/travel/hotel-del-coronado-san-diego.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/05/travel/hotel-del-coronado-san-diego.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/05/travel/hotel-del-coronado-san-diego.html" rel="standout"/>
+      <description>San Diego’s Hotel del Coronado, where “Some Like It Hot” was shot and celebrities regularly checked in, has been renovated meticulously, deliberately and very expensively.</description>
+      <dc:creator>Danielle Pergament</dc:creator>
+      <pubDate>Mon, 05 May 2025 09:01:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restoration and Renovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Celebrities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Architecture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Historic Buildings and Sites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Diego (Calif)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2025/05/05/multimedia/trav-coronado-hotel-07-wgct/trav-coronado-hotel-07-wgct-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>John Francis Peters for The New York Times</media:credit>
+      <media:description>When it opened in 1888, the Hotel del Coronado, in San Diego, was the largest hotel in the world. </media:description>
+    </item>
+    <item>
+      <title>Can Late-Night TV Survive Streaming? John Mulaney’s Show Is a Test.</title>
+      <link>https://www.nytimes.com/2025/05/05/business/media/late-night-streaming-john-mulaney.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/05/business/media/late-night-streaming-john-mulaney.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/05/business/media/late-night-streaming-john-mulaney.html" rel="standout"/>
+      <description>The talk shows are one of the few TV genres that haven’t made the leap to streaming. Their future may instead look a lot like a podcast studio.</description>
+      <dc:creator>John Koblin</dc:creator>
+      <pubDate>Mon, 05 May 2025 13:15:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Comedy and Humor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Netflix Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CBS Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Letterman, David</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mulaney, John</category>
+    </item>
+    <item>
+      <title>Elon Musk, His 16-Foot Wall and the Feud With His Texas Neighbors</title>
+      <link>https://www.nytimes.com/2025/05/05/technology/elon-musk-texas-neighbors.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/05/technology/elon-musk-texas-neighbors.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/05/technology/elon-musk-texas-neighbors.html" rel="standout"/>
+      <description>Residents of an upscale enclave outside Austin, Texas, learned the hard way what it’s like when a multibillionaire moves into the mansion next door. Some of them have started a ruckus over it.</description>
+      <dc:creator>Kirsten Grind</dc:creator>
+      <pubDate>Mon, 05 May 2025 15:41:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Zoning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Local Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fences and Property Barriers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cameras</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">City Councils</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tesla Motors Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Boring Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Austin (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Lake Hills (Tex)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2025/04/29/business/00musk-neighbors/00musk-neighbors-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Illustration by Zak Bickel/The New York Times; Photographs by Jordan Vonderhaar for The New York Times; Eric Lee/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>China’s Garment Factories Face a Tipping Point After New Tariffs</title>
+      <link>https://www.nytimes.com/2025/05/05/business/china-tariffs-de-minimis-guangzhou.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/05/business/china-tariffs-de-minimis-guangzhou.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/05/business/china-tariffs-de-minimis-guangzhou.html" rel="standout"/>
+      <description>As a U.S. tax loophole ends, the apparel makers that sell to America are forced to consider alternative markets or cheaper locations in and outside China.</description>
+      <dc:creator>Meaghan Tobin</dc:creator>
+      <pubDate>Mon, 05 May 2025 17:57:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guangzhou (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Temu (Website)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Shein (Fashion Label)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/05/multimedia/05Biz-China-Guangzhou-01-zhcm/05Biz-China-Guangzhou-01-zhcm-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Qilai Shen for The New York Times</media:credit>
+      <media:description>The night shift in the garment district in Guangzhou, China.</media:description>
+    </item>
+    <item>
+      <title>Oil Prices Fall as OPEC Increases Supply Despite Fears of an Economic Slowdown</title>
+      <link>https://www.nytimes.com/2025/05/04/business/energy-environment/oil-prices.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/04/business/energy-environment/oil-prices.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/04/business/energy-environment/oil-prices.html" rel="standout"/>
+      <description>U.S. oil prices fell to around $57 a barrel after the OPEC Plus cartel said this weekend that it would pump more oil.</description>
+      <dc:creator>Rebecca F. Elliott</dc:creator>
+      <pubDate>Mon, 05 May 2025 14:03:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Organization of the Petroleum Exporting Countries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2025/05/05/multimedia/05biz-oil-prices-qbgl/05biz-oil-prices-qbgl-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Ronaldo Schemidt/Agence France-Presse — Getty Images</media:credit>
+      <media:description>An oil refinery in Deer Park, Texas. For many companies, declining oil prices makes drilling new wells in the United States unprofitable.</media:description>
+    </item>
+    <item>
+      <title>Trump Targets Movies Made Outside U.S. With 100% Tariff, Citing Hollywood’s Decline</title>
+      <link>https://www.nytimes.com/2025/05/04/business/trump-tariffs-movies.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/04/business/trump-tariffs-movies.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/04/business/trump-tariffs-movies.html" rel="standout"/>
+      <description>Declaring foreign film production a national security threat, the president said he had asked his top trade official to start the process of imposing a tax on Hollywood.</description>
+      <dc:creator>Brooks Barnes</dc:creator>
+      <pubDate>Mon, 05 May 2025 17:53:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Motion Picture Assn of America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Alliance of Theatrical Stage Employees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Credits, Deductions and Exemptions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Finances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/05/multimedia/05Biz-Movie-Tariffs-mfbz/05Biz-Movie-Tariffs-mfbz-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Jenna Schoenefeld for The New York Times</media:credit>
+      <media:description>In January, President Trump said he had named Mel Gibson, Sylvester Stallone and Jon Voight as “special ambassadors.”</media:description>
+    </item>
+    <item>
+      <title>Highlights of Warren Buffett’s Life</title>
+      <link>https://www.nytimes.com/2025/05/04/business/buffett-timeline.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/04/business/buffett-timeline.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/04/business/buffett-timeline.html" rel="standout"/>
+      <description>Mr. Buffett, 94, was crowned the “Oracle of Omaha” because of smart investments he made as the chief executive of Berkshire Hathaway. He also made some mistakes.</description>
+      <dc:creator>Amanda Holpuch</dc:creator>
+      <pubDate>Sun, 04 May 2025 19:34:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Berkshire Hathaway Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Buffett, Howard H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abel, Gregory E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Buffett, Warren E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Munger, Charles T</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nebraska</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2025/05/04/multimedia/04xp-buffett1-ljwq/04xp-buffett1-ljwq-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Johannes Eisele/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Warren Buffett said he started studying the stock market when he was 9 years old.</media:description>
+    </item>
+    <item>
+      <title>How Warren Buffett Changed the Way Investors Thought of Investing</title>
+      <link>https://www.nytimes.com/2025/05/04/business/dealbook/warren-buffett-investing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/04/business/dealbook/warren-buffett-investing.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/04/business/dealbook/warren-buffett-investing.html" rel="standout"/>
+      <description>The idea of “value investing” had long existed. But no one did it as successfully or for as long as he did.</description>
+      <dc:creator>Michael J. de la Merced, Maureen Farrell and Lauren Hirsch</dc:creator>
+      <pubDate>Sun, 04 May 2025 20:15:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Buffett, Warren E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abel, Gregory E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Berkshire Hathaway Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Berkshire Hathaway Energy Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BNSF Railway</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Geico (Government Employees Insurance Co)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Goldman Sachs Group Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Electric Company</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/04/multimedia/04biz--buffett-1-tcwm/04biz--buffett-1-tcwm-mediumSquareAt3X-v2.jpg" width="1800"/>
+      <media:credit>Brendan McDermid/Reuters</media:credit>
+      <media:description>Warren E. Buffett, at the Berkshire Hathaway shareholders’ meeting on Saturday, turned a failing textile manufacturer into a trillion-dollar conglomerate and microcosm of the U.S. economy.</media:description>
+    </item>
+    <item>
+      <title>Who Is Gregory Abel, Warren Buffett’s Successor?</title>
+      <link>https://www.nytimes.com/2025/05/04/business/dealbook/gregory-abel-warren-buffett-berkshire.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/04/business/dealbook/gregory-abel-warren-buffett-berkshire.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/04/business/dealbook/gregory-abel-warren-buffett-berkshire.html" rel="standout"/>
+      <description>Mr. Buffett won renown and made billions as one of the most successful stock pickers of all time. Mr. Abel’s strengths lie more in running businesses.</description>
+      <dc:creator>Michael J. de la Merced</dc:creator>
+      <pubDate>Sun, 04 May 2025 09:01:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Berkshire Hathaway Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">MidAmerican Energy Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abel, Gregory E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Buffett, Warren E</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/04/multimedia/04biz-abel-1-wlvz/04biz-abel-1-wlvz-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Brendan Mcdermid/Reuters</media:credit>
+      <media:description>Greg Abel, at the Berkshire Hathaway shareholders’ gathering this weekend in Omaha, was Warren Buffett’s yearslong heir apparent.</media:description>
+    </item>
+    <item>
+      <title>My Boss Wants to Sleep on My Couch Every Week</title>
+      <link>https://www.nytimes.com/2025/05/04/business/boss-sleepover-inappropriate.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/04/business/boss-sleepover-inappropriate.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/04/business/boss-sleepover-inappropriate.html" rel="standout"/>
+      <description>Boundaries, boundaries and more boundaries. Plus: boundaries.</description>
+      <dc:creator>Anna Holmes</dc:creator>
+      <pubDate>Sun, 04 May 2025 09:01:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/04/multimedia/04biz-workfriend-lzhk/04biz-workfriend-lzhk-mediumSquareAt3X-v2.jpg" width="1800"/>
+      <media:credit>Photo illustration by Margeaux Walter for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Would the Housing Crisis Ease if Boomers Rented Out Their Empty Rooms?</title>
+      <link>https://www.nytimes.com/2025/05/04/business/economy/housing-crisis-multifamily-adu.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/04/business/economy/housing-crisis-multifamily-adu.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/04/business/economy/housing-crisis-multifamily-adu.html" rel="standout"/>
+      <description>Millions of single-family homes are underused, on spacious lots. Refitting them for “roommate houses” or backyard cottages could make a difference.</description>
+      <dc:creator>Conor Dougherty</dc:creator>
+      <pubDate>Sun, 04 May 2025 16:43:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Affordable Housing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dallas (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baby Boomers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Zoning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/01/multimedia/00biz-house-share-lvtm/00biz-house-share-lvtm-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Desiree Rios for The New York Times</media:credit>
+      <media:description>Monte Anderson, a developer in the Dallas area, divided his 2,400-square-foot home into four studio apartments and added a house in the backyard. </media:description>
+    </item>
+    <item>
+      <title>‘People Who Are Salaried Are Crying’: Taxes on Workers Add to Debt Misery</title>
+      <link>https://www.nytimes.com/2025/05/04/business/economy/kenya-debt-taxes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/04/business/economy/kenya-debt-taxes.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/04/business/economy/kenya-debt-taxes.html" rel="standout"/>
+      <description>Increased payroll taxes are one element of a desperate bid in Kenya to keep the government running and pay off the country’s foreign creditors.</description>
+      <dc:creator>Patricia Cohen</dc:creator>
+      <pubDate>Sun, 04 May 2025 04:01:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nairobi (Kenya)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ruto, William</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Monetary Fund</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Finances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/03/multimedia/00Biz-Kenya-Econ-16-ltck/00Biz-Kenya-Econ-16-ltck-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Brian Otieno for The New York Times</media:credit>
+      <media:description>The Toi Market in Nairobi.</media:description>
+    </item>
+    <item>
+      <title>Trump’s Tariffs Create Fear and Uncertainty at Vietnam’s Factories</title>
+      <link>https://www.nytimes.com/2025/05/04/business/trump-tariffs-vietnam-factories.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/04/business/trump-tariffs-vietnam-factories.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/04/business/trump-tariffs-vietnam-factories.html" rel="standout"/>
+      <description>The threat of 46 percent levies, among the highest for any country, is rattling Vietnam’s factory managers and workers, as well as thousands of exporters.</description>
+      <dc:creator>Alexandra Stevenson and Tung Ngo</dc:creator>
+      <pubDate>Sun, 04 May 2025 04:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vietnam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ho Chi Minh City (Vietnam)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/05/multimedia/00Biz-Vietnam-Tariff-01-gkvj/00Biz-Vietnam-Tariff-01-gkvj-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Linh Pham for The New York Times</media:credit>
+      <media:description>Workers sew garments along a production line at a Thanh Cong Textile Garment in Ho Chi Minh City, Vietnam.</media:description>
+    </item>
+    <item>
+      <title>Voters Approve Incorporation of SpaceX Hub as Starbase, Texas</title>
+      <link>https://www.nytimes.com/2025/05/03/business/spacex-starbase-south-texas-vote.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/03/business/spacex-starbase-south-texas-vote.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/03/business/spacex-starbase-south-texas-vote.html" rel="standout"/>
+      <description>A South Texas community, mostly made up of SpaceX employees, voted 212 to 6 in favor of establishing a new city called Starbase.</description>
+      <dc:creator>Hank Sanders</dc:creator>
+      <pubDate>Sun, 04 May 2025 02:44:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">X (Formerly Twitter)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cameron County (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Starbase (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/03/multimedia/03xp-starbase-htzf/03xp-starbase-htzf-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Gabriel V. Cárdenas for The New York Times</media:credit>
+      <media:description>Members of a South Texas community that is home to SpaceX and many of its employees voted Saturday to establish the city of Starbase.</media:description>
+    </item>
+    <item>
+      <title>Oil Prices Are Falling. Here’s Where That Could Spell Trouble.</title>
+      <link>https://www.nytimes.com/2025/05/03/world/europe/oil-prices-tariffs.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/03/world/europe/oil-prices-tariffs.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/03/world/europe/oil-prices-tariffs.html" rel="standout"/>
+      <description>For countries that depend heavily on oil revenue, dropping prices are worrisome.</description>
+      <dc:creator>Neil MacFarquhar</dc:creator>
+      <pubDate>Sat, 03 May 2025 16:59:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Libya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nigeria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Organization of the Petroleum Exporting Countries</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/03/multimedia/4int-globaloil-plch/4int-globaloil-plch-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Adriana Loureiro Fernandez for The New York Times</media:credit>
+      <media:description>Gas flares lit the night sky in Punta de Mata, an oil producing area in Venezuela. </media:description>
+    </item>
+    <item>
+      <title>Warren Buffett Plans to Step Down as Berkshire Hathaway CEO by End of 2025</title>
+      <link>https://www.nytimes.com/2025/05/03/business/berkshire-earnings-warren-buffett.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/03/business/berkshire-earnings-warren-buffett.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/03/business/berkshire-earnings-warren-buffett.html" rel="standout"/>
+      <description>Mr. Buffett said at the annual shareholders’ meeting that he wanted to turn over the reins to Greg Abel at the end of the year. Earlier, he criticized Trump’s trade policies.</description>
+      <dc:creator>Michael J. de la Merced</dc:creator>
+      <pubDate>Sun, 04 May 2025 01:20:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Berkshire Hathaway Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Buffett, Warren E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abel, Gregory E</category>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2025/05/03/multimedia/03biz-berkshire-file-ckmj/03biz-berkshire-file-ckmj-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Rick Wilking/Reuters</media:credit>
+      <media:description>Tens of thousands of investors flocked to Omaha on Saturday to hear directly from Warren E. Buffett, the chief executive of Berkshire Hathaway.</media:description>
+    </item>
+    <item>
+      <title>Why OPEC Plus Is Increasing Oil Supplies Despite Falling Prices</title>
+      <link>https://www.nytimes.com/2025/05/03/business/opec-plus-oil-production-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/03/business/opec-plus-oil-production-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/03/business/opec-plus-oil-production-trump.html" rel="standout"/>
+      <description>The group agreed to raise output in June, a sign that Saudi Arabia and its allies appear to be weary of cutting output and may be trying to appease President Trump, who has pushed for lower prices.</description>
+      <dc:creator>Stanley Reed</dc:creator>
+      <pubDate>Sat, 03 May 2025 12:24:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Production</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Organization of the Petroleum Exporting Countries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/03/multimedia/03biz-opec1-cglh/03biz-opec1-cglh-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Nanna Heitmann for The New York Times</media:credit>
+      <media:description>Oil production has increased at the Tengiz field in Kazakhstan, which is run by a Chevron-led joint venture that includes Exxon Mobil. </media:description>
+    </item>
+    <item>
+      <title>They Help Companies Set Prices. Tariffs Are Making It Trickier.</title>
+      <link>https://www.nytimes.com/2025/05/03/business/dealbook/trump-tariff-pricing-strategy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/03/business/dealbook/trump-tariff-pricing-strategy.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/03/business/dealbook/trump-tariff-pricing-strategy.html" rel="standout"/>
+      <description>Pricing strategists are navigating the possibility that input costs, the economy and consumer behavior may all shift drastically.</description>
+      <dc:creator>Sarah Kessler</dc:creator>
+      <pubDate>Sat, 03 May 2025 12:00:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/03/business/03DB-Pricing/03DB-Pricing-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Alfredo Estrella/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Many companies are planning to incorporate the costs associated with President Trump’s tariff policies in their pricing. But they fear those costs could change.</media:description>
+    </item>
+    <item>
+      <title>Why Designated Beneficiaries Are Key to Your Estate Planning</title>
+      <link>https://www.nytimes.com/2025/05/03/business/wills-estate-designated-beneficiary.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/03/business/wills-estate-designated-beneficiary.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/03/business/wills-estate-designated-beneficiary.html" rel="standout"/>
+      <description>Although a will is crucial to making sure your assets go where you want them when you die, you are likely to need something else, too: designated beneficiaries.</description>
+      <dc:creator>Tammy LaGorce</dc:creator>
+      <pubDate>Sat, 03 May 2025 09:00:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wills and Estates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Personal Finances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pensions and Retirement Plans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Retirement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Center for Retirement Research at Boston College</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fidelity Investments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Vanguard Group Inc</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2025/05/03/multimedia/03biz-retiring-beneficiary-cgjl/03biz-retiring-beneficiary-cgjl-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Sophie Park for The New York Times</media:credit>
+      <media:description>Zygmund Furmaniuk said the paperwork needed to transfer some of his deceased aunt’s assets was “the size of a small phone book.”</media:description>
+    </item>
+    <item>
+      <title>Trump’s Tariff on Cheap Chinese Imports Will Cost Big Tech Billions</title>
+      <link>https://www.nytimes.com/2025/05/03/business/china-tariffs-temu-shein.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/03/business/china-tariffs-temu-shein.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/03/business/china-tariffs-temu-shein.html" rel="standout"/>
+      <description>For Meta, Alphabet and other platforms, the elimination of the tariff exemption for inexpensive goods is already cutting into advertising revenue.</description>
+      <dc:creator>Daisuke Wakabayashi and Mike Isaac</dc:creator>
+      <pubDate>Sat, 03 May 2025 04:01:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alphabet Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pinduoduo (Mobile App)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Temu (Website)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Shein (Fashion Label)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/03/multimedia/03Biz-Deminimis-Tech-01-pzqk/03Biz-Deminimis-Tech-01-pzqk-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Qilai Shen for The New York Times</media:credit>
+      <media:description>Porters move packages through a garment wholesale and distribution district in Guangzhou, China on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Car Prices Expected to Rise as Tariffs on Parts Kick In</title>
+      <link>https://www.nytimes.com/2025/05/03/business/trump-auto-parts-tariffs.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/03/business/trump-auto-parts-tariffs.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/03/business/trump-auto-parts-tariffs.html" rel="standout"/>
+      <description>Tariffs on imported parts will have a broad impact because all vehicles use components made abroad.</description>
+      <dc:creator>Jack Ewing</dc:creator>
+      <pubDate>Sat, 03 May 2025 16:59:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Used Cars</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobile Insurance and Liability</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/03/multimedia/03biz-autoparts-tariffs-hjqb/03biz-autoparts-tariffs-hjqb-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Stacy Kranitz for The New York Times</media:credit>
+      <media:description>A General Motors plant in Bowling Green, Ky. Even vehicles made in the United States often include components that are made in other countries.</media:description>
+    </item>
+    <item>
+      <title>Newark Airport Is Experiencing Major Flight Delays. What’s Causing Them?</title>
+      <link>https://www.nytimes.com/2025/05/02/travel/newark-airport-flight-delays.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/02/travel/newark-airport-flight-delays.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/02/travel/newark-airport-flight-delays.html" rel="standout"/>
+      <description>Staffing shortages at an air traffic control center have added to the effects of a runway closure, leading to travel headaches that show no signs of easing.</description>
+      <dc:creator>Christine Chung</dc:creator>
+      <pubDate>Mon, 05 May 2025 17:02:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Traffic Control</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Delays (Transportation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Employees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Aviation Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">JetBlue Airways Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Airlines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Newark Liberty International Airport (NJ)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kirby, Scott (1967- )</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2025/05/02/multimedia/02trav-newark-delays-01-kbgw/02trav-newark-delays-01-kbgw-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Dakota Santiago for The New York Times</media:credit>
+      <media:description>United Airlines, which operates an average of 328 round-trip flights a day at Newark Liberty International Airport, said on Friday that it was cutting 35 of those flights because of air traffic control problems.</media:description>
+    </item>
+    <item>
+      <title>Former Abercrombie C.E.O. Ruled Unfit to Stand Trial for Sex Trafficking</title>
+      <link>https://www.nytimes.com/2025/05/02/nyregion/abercrombie-jeffries-unfit-to-stand-trial.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/02/nyregion/abercrombie-jeffries-unfit-to-stand-trial.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/02/nyregion/abercrombie-jeffries-unfit-to-stand-trial.html" rel="standout"/>
+      <description>Michael S. Jeffries had been accused of luring male models to secret sex parties. He has dementia, and a judge ruled him to be “mentally incompetent.”</description>
+      <dc:creator>Santul Nerkar</dc:creator>
+      <pubDate>Fri, 02 May 2025 21:13:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Trafficking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Abercrombie &amp; Fitch Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jeffries, Michael S</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Peace, Breon S</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1438" medium="image" url="https://static01.nyt.com/images/2025/04/11/multimedia/11met-jeffries-bkhl/11met-jeffries-bkhl-mediumSquareAt3X.jpg" width="1438"/>
+      <media:credit>Heather Khalifa/Associated Press</media:credit>
+      <media:description>Michael S. Jeffries, who prosecutors said coerced models into sex, had presided over several crises at Abercrombie and Fitch. He left the clothing retailer in 2014.</media:description>
+    </item>
+    <item>
+      <title>Stock Market on Track to Erases Losses From Trump’s ‘Liberation Day’ Tariff Rollout</title>
+      <link>https://www.nytimes.com/2025/05/02/business/stock-market-recovery-trump-tariffs.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/02/business/stock-market-recovery-trump-tariffs.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/02/business/stock-market-recovery-trump-tariffs.html" rel="standout"/>
+      <description>Wall Street has recovered from April’s sharp sell-off, buoyed by hope for trade talks. But the economic fallout from President Trump’s policies still has investors on edge.</description>
+      <dc:creator>Danielle Kaye</dc:creator>
+      <pubDate>Fri, 02 May 2025 20:07:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor's 500-Stock Index</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+    </item>
+    <item>
+      <title>Trump’s Order to Cut Funding for NPR and PBS Draws Fiery Pushback</title>
+      <link>https://www.nytimes.com/2025/05/02/business/media/npr-pbs-federal-funding.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/02/business/media/npr-pbs-federal-funding.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/02/business/media/npr-pbs-federal-funding.html" rel="standout"/>
+      <description>NPR called the order, which could upend public media, “an affront to the First Amendment.”</description>
+      <dc:creator>Benjamin Mullin</dc:creator>
+      <pubDate>Fri, 02 May 2025 20:49:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Radio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Public Broadcasting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Corp for Public Broadcasting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Public Radio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Public Broadcasting Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kerger, Paula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maher, Katherine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Durbin, Karen</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/02/multimedia/BIZ-PUBLIC-MEDIA-lzgt/BIZ-PUBLIC-MEDIA-lzgt-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Eric Lee/The New York Times</media:credit>
+      <media:description>NPR headquarters in Washington.</media:description>
+    </item>
+    <item>
+      <title>Google Plans to Roll Out Gemini A.I. Chatbot to Children Under 13</title>
+      <link>https://www.nytimes.com/2025/05/02/technology/google-gemini-ai-chatbot-kids.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/02/technology/google-gemini-ai-chatbot-kids.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/02/technology/google-gemini-ai-chatbot-kids.html" rel="standout"/>
+      <description>The tech giant said it would make its Gemini chatbot available to children next week, and warned families in an email about the changes.</description>
+      <dc:creator>Natasha Singer</dc:creator>
+      <pubDate>Fri, 02 May 2025 18:05:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children's Online Privacy Protection Act</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="">Gemini (Chatbot)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/02/multimedia/00biz-Gemini-Kids-vtfg/00biz-Gemini-Kids-vtfg-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Jim Wilson/The New York Times</media:credit>
+      <media:description>The Google chatbot will be available to children under 13 whose parents use Family Link.</media:description>
+    </item>
+    <item>
+      <title>Here’s what to know:</title>
+      <link>https://www.nytimes.com/live/2025/05/02/business/jobs-report-april-economy/pinned</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2025/05/02/business/jobs-report-april-economy/pinned</guid>
+      <atom:link href="https://www.nytimes.com/live/2025/05/02/business/jobs-report-april-economy/pinned" rel="standout"/>
+      <description/>
+      <dc:creator>Talmon Joseph Smith</dc:creator>
+      <pubDate>Fri, 02 May 2025 16:22:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Republicans Wrestle With Trump’s Demands for Tax Cuts</title>
+      <link>https://www.nytimes.com/2025/05/02/us/politics/republicans-trump-tax-cuts.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/02/us/politics/republicans-trump-tax-cuts.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/02/us/politics/republicans-trump-tax-cuts.html" rel="standout"/>
+      <description>House Republicans are planning to include several of President Trump’s campaign promises in the first draft of the bill, which they hope to release soon.</description>
+      <dc:creator>Andrew Duehren</dc:creator>
+      <pubDate>Fri, 02 May 2025 18:24:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Taxes (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Tax</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Credits, Deductions and Exemptions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Overtime</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tips and Tipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Security (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Budget (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/02/multimedia/02dc-goptax-zgbv/02dc-goptax-zgbv-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Pete Marovich for The New York Times</media:credit>
+      <media:description>Congressional Republicans are straining to incorporate several of President Trump’s novel tax plans into legislation.</media:description>
+    </item>
+    <item>
+      <title>U.S. and China Dig In on Trade War, With No Plans for Formal Talks</title>
+      <link>https://www.nytimes.com/2025/05/02/us/politics/us-china-trade-tariffs-talks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/02/us/politics/us-china-trade-tariffs-talks.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/02/us/politics/us-china-trade-tariffs-talks.html" rel="standout"/>
+      <description>The standoff over terms of negotiations, and whether they are happening, signals that a protracted economic fight lies ahead.</description>
+      <dc:creator>Alan Rappeport</dc:creator>
+      <pubDate>Fri, 02 May 2025 16:02:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hometown Food Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2025/05/03/multimedia/03dc-uschina-talks-jmfk/03dc-uschina-talks-jmfk-mediumSquareAt3X-v2.jpg" width="1800"/>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>The apparent silence between the United States and China is a serious matter for the global economy.</media:description>
+    </item>
+    <item>
+      <title>Trump Proposes $163 Billion in Cuts Across Government in New Budget</title>
+      <link>https://www.nytimes.com/2025/05/02/us/politics/heres-the-latest.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/02/us/politics/heres-the-latest.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/02/us/politics/heres-the-latest.html" rel="standout"/>
+      <description>Many of the suggested cuts, which would require congressional approval, target federal programs that benefit the poor.</description>
+      <dc:creator>Tony Romm</dc:creator>
+      <pubDate>Fri, 02 May 2025 22:12:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Budget (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vought, Russell T</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+    </item>
+    <item>
+      <title>Solid Jobs Report Reinforces Fed’s Patient Approach to Interest Rate Cuts</title>
+      <link>https://www.nytimes.com/2025/05/02/business/fed-jobs-interest-rates.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/02/business/fed-jobs-interest-rates.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/02/business/fed-jobs-interest-rates.html" rel="standout"/>
+      <description>The central bank is bracing for President Trump’s tariffs to dent growth while stoking inflation, keeping interest rate cuts at bay for now.</description>
+      <dc:creator>Colby Smith</dc:creator>
+      <pubDate>Fri, 02 May 2025 14:20:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Powell, Jerome H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/02/multimedia/02biz-jobs-report-fed-pqlj/02biz-jobs-report-fed-pqlj-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Haiyun Jiang for The New York Times</media:credit>
+      <media:description>Jerome H. Powell, the Federal Reserve chair.</media:description>
+    </item>
+    <item>
+      <title>Trump Says He’s ‘Taking Away’ Harvard’s Tax Exempt Status</title>
+      <link>https://www.nytimes.com/2025/05/02/us/politics/trump-harvard-tax-exempt-status.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/02/us/politics/trump-harvard-tax-exempt-status.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/02/us/politics/trump-harvard-tax-exempt-status.html" rel="standout"/>
+      <description>President Trump on Friday said he would be “taking away” the university’s status, renewing a threat he made last month. It was not immediately clear if the I.R.S. was moving forward with a change.</description>
+      <dc:creator>Andrew Duehren, Maggie Haberman and Alan Blinder</dc:creator>
+      <pubDate>Fri, 02 May 2025 22:25:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Harvard University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Academic Freedom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endowments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Credits, Deductions and Exemptions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Internal Revenue Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2025/05/02/multimedia/02trump-news-harvard-tax-pfzm/02trump-news-harvard-tax-pfzm-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Sophie Park for The New York Times</media:credit>
+      <media:description>The campus at Harvard University in Cambridge, Mass.</media:description>
+    </item>
+    <item>
+      <title>Tips for Navigating the ‘Chaotic System’ of Student Loan Repayments</title>
+      <link>https://www.nytimes.com/2025/05/02/your-money/student-loan-repayment-tips.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/02/your-money/student-loan-repayment-tips.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/02/your-money/student-loan-repayment-tips.html" rel="standout"/>
+      <description>Experts say recent graduates with loans should choose the repayment option that makes the most sense for them now and expect to make adjustments later.</description>
+      <dc:creator>Ann Carrns</dc:creator>
+      <pubDate>Fri, 02 May 2025 16:26:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Credit and Debt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Student Loans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Financial Aid (Education)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Education Department (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>Don’t Count the Dollar Out Just Yet</title>
+      <link>https://www.nytimes.com/2025/05/02/business/dollar-treasury-bonds-markets.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/02/business/dollar-treasury-bonds-markets.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/02/business/dollar-treasury-bonds-markets.html" rel="standout"/>
+      <description>As President Trump’s tariffs rock the world, German bonds and the euro are benefiting. But U.S. strength endures, our columnist says.</description>
+      <dc:creator>Jeff Sommer</dc:creator>
+      <pubDate>Fri, 02 May 2025 13:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US Dollar (Currency)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Personal Finances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mar-a-Lago (Palm Beach, Fla)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
+    </item>
+    <item>
+      <title>Why Apple Warned About a $900 Million Tariff Hit</title>
+      <link>https://www.nytimes.com/2025/05/02/business/dealbook/apple-amazon-tariffs-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/02/business/dealbook/apple-amazon-tariffs-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/02/business/dealbook/apple-amazon-tariffs-trump.html" rel="standout"/>
+      <description>The iPhone maker warned that it may take a $900 million hit from President Trump’s levies, showing that even powerful companies aren’t immune from the trade war.</description>
+      <dc:creator>Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Edmund Lee</dc:creator>
+      <pubDate>Fri, 02 May 2025 11:53:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jassy, Andrew R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cook, Timothy D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Protectionism (Trade)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2025/05/02/multimedia/02db-newsletter-apple1-jfck/02db-newsletter-apple1-jfck-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Kevin Frayer/Getty Images</media:credit>
+      <media:description>The real hit for Apple from tariffs could start in this quarter, to the tune of perhaps $900 million, executives warn Wall Street.</media:description>
+    </item>
+    <item>
+      <title>TikTok Fined $600 Million for Sending European User Data to China</title>
+      <link>https://www.nytimes.com/2025/05/02/business/tiktok-eu-data-china.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/02/business/tiktok-eu-data-china.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/02/business/tiktok-eu-data-china.html" rel="standout"/>
+      <description>Irish investigators said TikTok did not protect the data of users in the European Union, improperly transferring some of it to China. TikTok said it would appeal.</description>
+      <dc:creator>Adam Satariano</dc:creator>
+      <pubDate>Fri, 02 May 2025 18:10:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fines (Penalties)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">General Data Protection Regulation (GDPR)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beijing Bytedance Technology Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/03/multimedia/03biz-eu-tiktok-hjfw/02biz-eu-tiktok-hjfw-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Roslan Rahman/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The fine adds to the challenges faced by TikTok’s owner, ByteDance, amid increased scrutiny in the United States.</media:description>
+    </item>
+    <item>
+      <title>Hospitality hiring could slow as foreign tourists skip the U.S., for now.</title>
+      <link>https://www.nytimes.com/live/2025/05/02/business/jobs-report-april-economy/hospitality-hiring-could-slow-as-foreign-tourists-skip-the-us-for-now</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2025/05/02/business/jobs-report-april-economy/hospitality-hiring-could-slow-as-foreign-tourists-skip-the-us-for-now</guid>
+      <atom:link href="https://www.nytimes.com/live/2025/05/02/business/jobs-report-april-economy/hospitality-hiring-could-slow-as-foreign-tourists-skip-the-us-for-now" rel="standout"/>
+      <description/>
+      <dc:creator>Lydia DePillis</dc:creator>
+      <pubDate>Fri, 02 May 2025 10:58:00 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/02/multimedia/02biz-jobs-report-international-travel-jbcf/02biz-jobs-report-international-travel-jbcf-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Janice Chung for The New York Times</media:credit>
+      <media:description>Locals and tourists in the Financial District of Manhattan earlier this month.</media:description>
+    </item>
+    <item>
+      <title>Exxon and Chevron Report Lower Profits While Girding for Tariffs</title>
+      <link>https://www.nytimes.com/2025/05/02/business/energy-environment/exxon-chevron-earnings.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/05/02/business/energy-environment/exxon-chevron-earnings.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/05/02/business/energy-environment/exxon-chevron-earnings.html" rel="standout"/>
+      <description>President Trump’s trade policies have helped to push down oil prices while raising the costs of materials for oil and gas companies.</description>
+      <dc:creator>Rebecca F. Elliott</dc:creator>
+      <pubDate>Sat, 03 May 2025 02:57:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Production</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Steel and Iron</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chevron Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Exxon Mobil Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Organization of the Petroleum Exporting Countries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Baker Hughes Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Woods, Darren W (1965- )</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2025/05/03/multimedia/03oil-earnings-gqhm/02oil-earnings-gqhm-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Meridith Kohut for The New York Times</media:credit>
+      <media:description>Many larger oil and gas companies have said they would stick to their production plans for the year.</media:description>
+    </item>
+    <item>
+      <title>President Trump remains bullish, even as the economy flashes warning signs.</title>
+      <link>https://www.nytimes.com/live/2025/05/02/business/jobs-report-april-economy/president-trump-remains-bullish-even-as-the-economy-flashes-warning-signs</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2025/05/02/business/jobs-report-april-economy/president-trump-remains-bullish-even-as-the-economy-flashes-warning-signs</guid>
+      <atom:link href="https://www.nytimes.com/live/2025/05/02/business/jobs-report-april-economy/president-trump-remains-bullish-even-as-the-economy-flashes-warning-signs" rel="standout"/>
+      <description/>
+      <dc:creator>Tony Romm</dc:creator>
+      <pubDate>Fri, 02 May 2025 10:34:24 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/02/multimedia/02biz-jobs-report-trump-phgw/02biz-jobs-report-trump-phgw-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Pete Marovich for The New York Times</media:credit>
+      <media:description>President Trump has heralded his pursuit of tax cuts and sky-high tariffs as the ingredients for an imminent economic boom.</media:description>
+    </item>
+    <item>
+      <title>After weeks of volatile trading, Friday’s report could set the tone on Wall Street.</title>
+      <link>https://www.nytimes.com/live/2025/05/02/business/jobs-report-april-economy/after-weeks-of-volatile-trading-fridays-report-could-set-the-tone-on-wall-street</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2025/05/02/business/jobs-report-april-economy/after-weeks-of-volatile-trading-fridays-report-could-set-the-tone-on-wall-street</guid>
+      <atom:link href="https://www.nytimes.com/live/2025/05/02/business/jobs-report-april-economy/after-weeks-of-volatile-trading-fridays-report-could-set-the-tone-on-wall-street" rel="standout"/>
+      <description/>
+      <dc:creator>Joe Rennison and Danielle Kaye</dc:creator>
+      <pubDate>Fri, 02 May 2025 10:01:26 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/02/multimedia/02biz-jobs-report-market-hqjk/02biz-jobs-report-market-hqjk-mediumSquareAt3X.jpg" width="1800"/>
+      <media:credit>Richard Drew/Associated Press</media:credit>
+      <media:description>Traders at the New York Stock Exchange on Thursday.</media:description>
+    </item>
+  </channel>
+</rss>
