@@ -101,3 +101,4 @@ debug:
 	@echo "MAIN_CLASS: $(MAIN_CLASS)"
 	@echo "HEURISTIC: $(HEURISTIC)"
 	@echo "SPARK_MASTER: $(SPARK_MASTER)"
+
