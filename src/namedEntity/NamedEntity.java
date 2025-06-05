@@ -1,12 +1,14 @@
 package namedEntity;
 
+import java.io.Serializable;
 import namedEntity.categories.Category;
 
 import namedEntity.topics.Topic;
 
 /*Esta clase modela la nocion de entidad nombrada*/
 
-public class NamedEntity {
+public class NamedEntity implements Serializable {
+    private static final long serialVersionUID = 1L;
 
 	private String name;
 	private int frequency;
