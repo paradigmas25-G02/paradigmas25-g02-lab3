@@ -14,6 +14,16 @@ ORIGINAL_MAIN = FeedReaderMain
 HEURISTIC ?= -qh
 SPARK_MASTER ?= local[*]
 
+# Configuración de opciones JVM para Java 17 + Spark
+JAVA_OPTS = --add-opens java.base/sun.nio.ch=ALL-UNNAMED \
+           --add-opens java.base/java.nio=ALL-UNNAMED \
+           --add-opens java.base/java.util=ALL-UNNAMED \
+           --add-opens java.base/java.lang.invoke=ALL-UNNAMED \
+           --add-opens java.base/java.lang.reflect=ALL-UNNAMED \
+           --add-opens java.base/java.net=ALL-UNNAMED \
+           --add-opens java.base/java.io=ALL-UNNAMED \
+           -Djava.security.manager=allow
+
 .PHONY: all clean compile run local cluster help original maven-compile
 
 # Target por defecto
@@ -51,12 +61,12 @@ maven-compile:
 run: compile
 	@echo "=== Ejecutando SparkFeedFetcher en modo LOCAL ==="
 	@echo "Heurística: $(HEURISTIC)"
-	MAVEN_OPTS="--add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-opens java.base/java.nio=ALL-UNNAMED --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang.invoke=ALL-UNNAMED --add-opens java.base/java.lang.reflect=ALL-UNNAMED" mvn exec:java -Dexec.mainClass="$(MAIN_CLASS)" -Dexec.args="$(HEURISTIC)"
+	MAVEN_OPTS="$(JAVA_OPTS)" mvn exec:java -Dexec.mainClass="$(MAIN_CLASS)" -Dexec.args="$(HEURISTIC)"
 
 # Ejecutar en modo local explícito
 local: compile
 	@echo "=== Ejecutando en modo LOCAL con todos los cores ==="
-	SPARK_MASTER="local[*]" MAVEN_OPTS="--add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-opens java.base/java.nio=ALL-UNNAMED --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang.invoke=ALL-UNNAMED --add-opens java.base/java.lang.reflect=ALL-UNNAMED" mvn exec:java -Dexec.mainClass="$(MAIN_CLASS)" -Dexec.args="$(HEURISTIC)"
+	SPARK_MASTER="local[*]" MAVEN_OPTS="$(JAVA_OPTS)" mvn exec:java -Dexec.mainClass="$(MAIN_CLASS)" -Dexec.args="$(HEURISTIC)"
 
 # Ejecutar versión original (para comparación)
 original: compile
@@ -77,7 +87,7 @@ benchmark: compile
 	time mvn -q exec:java -Dexec.mainClass="$(ORIGINAL_MAIN)" -Dexec.args="$(HEURISTIC)"
 	@echo ""
 	@echo "2. Versión Spark (distribuida):"
-	time env MAVEN_OPTS="--add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-opens java.base/java.nio=ALL-UNNAMED --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang.invoke=ALL-UNNAMED --add-opens java.base/java.lang.reflect=ALL-UNNAMED" mvn -q exec:java -Dexec.mainClass="$(MAIN_CLASS)" -Dexec.args="$(HEURISTIC)"
+	time MAVEN_OPTS="$(JAVA_OPTS)" mvn -q exec:java -Dexec.mainClass="$(MAIN_CLASS)" -Dexec.args="$(HEURISTIC)"
 
 # Limpiar archivos compilados
 clean:
