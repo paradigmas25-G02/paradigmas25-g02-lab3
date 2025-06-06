@@ -51,8 +51,7 @@ public class SubscriptionParser {
 		return (
 			o.has("url") &&
 			o.has("urlParams") &&
-			o.has("urlType") &&
-			o.has("download")
+			o.has("urlType")
 		);
 	}
 

@@ -1,6 +1,9 @@
 package namedEntity.categories;
 
-public abstract class Category {
+import java.io.Serializable;
+
+public abstract class Category implements Serializable {
+    private static final long serialVersionUID = 1L;
 
     private String atom;
 

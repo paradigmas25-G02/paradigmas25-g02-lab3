@@ -1,14 +1,127 @@
 [
-	{
-		"url": "https://rss.nytimes.com/services/xml/rss/nyt/%s.xml",
-		"urlParams": ["Business", "Technology"],
-		"urlType": "rss",
-		"download": "true"
-	},
-	{
-		"url": "https://www.reddit.com/r/%s/hot/.json?count=100",
-		"urlParams": ["Marketing", "Sales", "Entrepreneur", "Startups"],
-		"urlType": "reddit",
-		"download": "/home/fbustos/Documents/"
-	}
+    {
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/%s.xml",
+        "urlParams": ["Business", "Technology"],
+        "urlType": "rss"
+    },
+    {
+        "url": "https://ayearofreadingtheworld.com/feed/",
+        "urlParams": ["default"],
+        "urlType": "rss"
+    },
+    {
+        "url": "https://www.reddit.com/r/books/.rss",
+        "urlParams": ["default"],
+        "urlType": "rss"
+    },
+    {
+        "url": "https://wokeread.home.blog/feed/",
+        "urlParams": ["default"],
+        "urlType": "rss"
+    },
+    {
+        "url": "https://www.101cookbooks.com/feed",
+        "urlParams": ["default"],
+        "urlType": "rss"
+    },
+    {
+        "url": "https://cnz.to/feed/",
+        "urlParams": ["default"],
+        "urlType": "rss"
+    },
+    {
+        "url": "https://greenkitchenstories.com/feed/",
+        "urlParams": ["default"],
+        "urlType": "rss"
+    },
+    {
+        "url": "https://www.101cookbooks.com/feed",
+        "urlParams": ["default"],
+        "urlType": "rss"
+    },
+    {
+        "url": "https://www.thekitchn.com/main.rss",
+        "urlParams": ["default"],
+        "urlType": "rss"
+    },
+    {
+        "url": "https://www.aintitcool.com/node/feed/",
+        "urlParams": ["default"],
+        "urlType": "rss"
+    },
+    {
+        "url": "https://www.comingsoon.net/feed",
+        "urlParams": ["default"],
+        "urlType": "rss"
+    },
+    {
+        "url": "https://variety.com/feed/",
+        "urlParams": ["default"],
+        "urlType": "rss"
+    },
+    {
+        "url": "https://filmschoolrejects.com/feed/",
+        "urlParams": ["default"],
+        "urlType": "rss"
+    },
+    {
+        "url": "https://www.rollingstone.com/rss/",
+        "urlParams": ["default"],
+        "urlType": "rss"
+    },
+    {
+        "url": "https://www.etsy.com/codeascraft/rss",
+        "urlParams": ["default"],
+        "urlType": "rss"
+    },
+    {
+        "url": "http://feeds.codenewbie.org/cnpodcast.xml",
+        "urlParams": ["default"],
+        "urlType": "rss"
+    },
+    {
+        "url": "https://engineering.fb.com/feed/",
+        "urlParams": ["default"],
+        "urlType": "rss"
+    },
+    {
+        "url": "https://about.gitlab.com/atom.xml",
+        "urlParams": ["default"],
+        "urlType": "rss"
+    },
+    {
+        "url": "https://feeds.feedburner.com/GDBcode",
+        "urlParams": ["default"],
+        "urlType": "rss"
+    },
+    {
+        "url": "https://medium.com/feed/hackernoon",
+        "urlParams": ["default"],
+        "urlType": "rss"
+    },
+    {
+        "url": "https://www.joelonsoftware.com/feed/",
+        "urlParams": ["default"],
+        "urlType": "rss"
+    },
+    {
+        "url": "https://softwareengineeringdaily.com/category/podcast/feed/",
+        "urlParams": ["default"],
+        "urlType": "rss"
+    },
+    {
+        "url": "https://www.thirtythreeforty.net/posts/index.xml",
+        "urlParams": ["default"],
+        "urlType": "rss"
+    },
+    {
+        "url": "https://www.thecrazyprogrammer.com/category/programming/feed",
+        "urlParams": ["default"],
+        "urlType": "rss"
+    },
+    {
+        "url": "https://slack.engineering/feed/",
+        "urlParams": ["default"],
+        "urlType": "rss"
+    }
 ]

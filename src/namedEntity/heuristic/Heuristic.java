@@ -1,5 +1,6 @@
 package namedEntity.heuristic;
 
+import java.io.Serializable;
 import java.util.Map;
 // import java.util.Locale.Category;
 
@@ -12,7 +13,8 @@ import namedEntity.categories.Place.Country;
 import namedEntity.categories.Place.OtherPlace;
 import namedEntity.categories.Place.Place;
 
-public abstract class Heuristic {
+public abstract class Heuristic implements Serializable {
+    private static final long serialVersionUID = 1L;
 
 private static final Map<String, Topic> topicMap = Map.ofEntries(
         // == People (PERSONA) ==
