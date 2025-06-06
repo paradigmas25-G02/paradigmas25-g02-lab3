@@ -14,7 +14,7 @@ ORIGINAL_MAIN = FeedReaderMain
 HEURISTIC ?= -qh
 SPARK_MASTER ?= local[*]
 
-# Configuración de opciones JVM para Java 17 + Spark
+# Configuración de opciones JVM para Java 17 + Spark + Hadoop
 JAVA_OPTS = --add-opens java.base/sun.nio.ch=ALL-UNNAMED \
            --add-opens java.base/java.nio=ALL-UNNAMED \
            --add-opens java.base/java.util=ALL-UNNAMED \
@@ -22,7 +22,12 @@ JAVA_OPTS = --add-opens java.base/sun.nio.ch=ALL-UNNAMED \
            --add-opens java.base/java.lang.reflect=ALL-UNNAMED \
            --add-opens java.base/java.net=ALL-UNNAMED \
            --add-opens java.base/java.io=ALL-UNNAMED \
-           -Djava.security.manager=allow
+           --add-opens java.base/java.lang=ALL-UNNAMED \
+           --add-opens java.base/java.util.concurrent=ALL-UNNAMED \
+           --add-opens java.base/sun.security.action=ALL-UNNAMED \
+           -Djava.security.manager=allow \
+           -Dio.netty.tryReflectionSetAccessible=true \
+           -Dlog4j2.formatMsgNoLookups=true
 
 .PHONY: all clean compile run local cluster help original maven-compile
 
