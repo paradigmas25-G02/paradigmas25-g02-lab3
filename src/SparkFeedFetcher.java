@@ -6,6 +6,7 @@ import org.apache.spark.sql.SparkSession;
 
 import java.io.ByteArrayInputStream;
 import java.io.InputStream;
+import java.io.Serializable;
 import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.List;
@@ -33,7 +34,7 @@ import subscription.Subscription;
 public class SparkFeedFetcher {
     
     public static void main(String[] args) {
-        System.out.println("************* SparkFeedFetcher version 1.0 *************");
+        System.out.println("** SparkFeedFetcher version 1.0 **");
         
         // Configurar Spark Session
         SparkSession spark = SparkSession
@@ -111,26 +112,16 @@ public class SparkFeedFetcher {
     private static JavaRDD<Feed> downloadAndParseFeeds(SparkSession spark, List<String> urls) {
         // Crear RDD distribuido de URLs usando JavaSparkContext
         JavaSparkContext jsc = new JavaSparkContext(spark.sparkContext());
-        JavaRDD<String> urlsRDD = jsc.parallelize(urls, Math.min(urls.size(), 10)); // Máximo 10 particiones
+        // JavaRDD<String> urlsRDD = jsc.parallelize(urls, Math.min(urls.size(), 10)); // Máximo 10 particiones
+        JavaRDD<String> urlsRDD = jsc.parallelize(urls, urls.size());
         
+
         // Mapear cada URL a un Feed usando workers distribuidos
         JavaRDD<Feed> feedsRDD = urlsRDD.map(url -> {
             try {
                 // crear objetos dentro del worker para evitar problemas de serializacion
                 HttpRequester requester = new HttpRequester();
                 String content = requester.getFeedRss(url);
-                
-                // Verificar que el contenido es realmente un feed RSS/XML
-                if (content == null || content.trim().isEmpty()) {
-                    System.err.println("Contenido vacío para URL: " + url);
-                    return new Feed("ERROR_EMPTY_" + url);
-                }
-                
-                // Verificar que es XML válido (RSS o RSS+Atom)
-                if (!isValidRssFeed(content)) {
-                    System.err.println("Contenido no es RSS válido para URL: " + url);
-                    return new Feed("ERROR_NOT_RSS_" + url);
-                }
                 
                 InputStream xmlStream = new ByteArrayInputStream(
                     content.getBytes(StandardCharsets.UTF_8)
@@ -145,18 +136,15 @@ public class SparkFeedFetcher {
             } catch (Exception e) {
                 System.err.println("Error procesando URL: " + url + " - " + e.getMessage());
                 // retornar feed vacio que sera filtrado
-                return new Feed("ERROR_EXCEPTION_" + url);
+                return new Feed("ERROR_" + url);
             }
         });
         
-        // Filtrar feeds que fallaron y retornar
-        JavaRDD<Feed> validFeeds = feedsRDD.filter(feed -> 
+        // Filtrar feeds que fallaron
+        return feedsRDD.filter(feed -> 
             !feed.getSiteName().startsWith("ERROR_") && 
             feed.getNumberOfArticles() > 0
         );
-        
-        // Nota: JavaSparkContext se cierra automáticamente cuando se cierra SparkSession
-        return validFeeds;
     }
     
     /**
@@ -229,36 +217,5 @@ public class SparkFeedFetcher {
         for (Tuple2<String, Integer> result : results) {
             System.out.println(result._1() + ": " + result._2());
         }
-    }
-    
-    /**
-     * Verifica si el contenido es un feed RSS válido (incluyendo RSS con elementos Atom)
-     */
-    private static boolean isValidRssFeed(String content) {
-        if (content == null || content.trim().isEmpty()) {
-            return false;
-        }
-        
-        String normalizedContent = content.toLowerCase().trim();
-        
-        // Verificar que es XML
-        if (!normalizedContent.startsWith("<?xml") && !normalizedContent.contains("<rss")) {
-            return false;
-        }
-        
-        // Verificar que tiene elementos RSS básicos
-        boolean hasRssTag = normalizedContent.contains("<rss") || normalizedContent.contains("<rss>");
-        boolean hasChannelTag = normalizedContent.contains("<channel");
-        boolean hasItemTags = normalizedContent.contains("<item");
-        
-        // También verificar si tiene elementos Atom (feeds híbridos)
-        boolean hasAtomNamespace = normalizedContent.contains("xmlns:atom") || 
-                                  normalizedContent.contains("atom:");
-        
-        // Es válido si:
-        // 1. Tiene estructura RSS básica (rss + channel + items), O
-        // 2. Tiene elementos RSS con namespace Atom (feeds híbridos)
-        return (hasRssTag && hasChannelTag && hasItemTags) || 
-               (hasRssTag && hasAtomNamespace && hasItemTags);
     }
 }
