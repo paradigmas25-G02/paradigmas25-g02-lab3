@@ -8,7 +8,6 @@ Este laboratorio extiende el Laboratorio 2 implementando procesamiento distribui
 ### Distribución de descarga/parsing de feeds
 •⁠  ⁠*Un worker por feed*: Cada feed RSS se descarga y parsea en un worker distribuido diferente
 •⁠  ⁠*Implementación*: ⁠ JavaRDD<String> urlsRDD = jsc.parallelize(urls, Math.min(urls.size(), 10)) ⁠
-•⁠  ⁠*Paralelización*: Máximo 10 particiones para balancear recursos
 
 ### Distribución de procesamiento de entidades nombradas  
 •⁠  ⁠*Un worker por artículo*: Cada artículo se procesa en un worker distribuido independiente
@@ -181,7 +180,7 @@ urlsRDD
 *En nuestro proyecto:*
 ⁠ java
 // Particionamiento controlado
-JavaRDD<String> urlsRDD = jsc.parallelize(urls, Math.min(urls.size(), 10));
+JavaRDD<String> urlsRDD = jsc.parallelize(urls, urls.size()));
 
 // Transformaciones lazy (no se ejecutan hasta collect())
 JavaRDD<NamedEntity> entitiesRDD = urlsRDD
