@@ -25,9 +25,7 @@ JAVA_OPTS = --add-opens java.base/sun.nio.ch=ALL-UNNAMED \
            --add-opens java.base/java.lang=ALL-UNNAMED \
            --add-opens java.base/java.util.concurrent=ALL-UNNAMED \
            --add-opens java.base/sun.security.action=ALL-UNNAMED \
-           -Djava.security.manager=allow \
-           -Dio.netty.tryReflectionSetAccessible=true \
-           -Dlog4j2.formatMsgNoLookups=true
+           -Djava.security.manager=allow
 
 .PHONY: all clean compile run local cluster help original maven-compile
 
@@ -56,58 +54,58 @@ help:
 
 # Compilar código Java con Maven
 compile: maven-compile
-	@echo "✓ Compilación completada con Maven"
+	@echo "✓ Compilación completada"
 
 maven-compile:
 	@echo "=== Compilando con Maven (incluye dependencias de Spark) ==="
-	mvn clean compile
+	@mvn -q clean compile
 
-# Ejecutar SparkFeedFetcher en modo local (desarrollo)
+# Ejecutar SparkFeedFetcher en modo local
 run: compile
 	@echo "=== Ejecutando SparkFeedFetcher en modo LOCAL ==="
 	@echo "Heurística: $(HEURISTIC)"
-	MAVEN_OPTS="$(JAVA_OPTS)" mvn exec:java -Dexec.mainClass="$(MAIN_CLASS)" -Dexec.args="$(HEURISTIC)"
+	@MAVEN_OPTS="$(JAVA_OPTS)" mvn -q exec:java -Dexec.mainClass="$(MAIN_CLASS)" -Dexec.args="$(HEURISTIC)"
 
 # Ejecutar en modo local explícito
 local: compile
 	@echo "=== Ejecutando en modo LOCAL con todos los cores ==="
-	SPARK_MASTER="local[*]" MAVEN_OPTS="$(JAVA_OPTS)" mvn exec:java -Dexec.mainClass="$(MAIN_CLASS)" -Dexec.args="$(HEURISTIC)"
+	@SPARK_MASTER="local[*]" MAVEN_OPTS="$(JAVA_OPTS)" mvn -q exec:java -Dexec.mainClass="$(MAIN_CLASS)" -Dexec.args="$(HEURISTIC)"
 
 # Ejecutar versión original (para comparación)
 original: compile
 	@echo "=== Ejecutando FeedReaderMain original (secuencial) ==="
 	@echo "Heurística: $(HEURISTIC)"
-	mvn exec:java -Dexec.mainClass="$(ORIGINAL_MAIN)" -Dexec.args="$(HEURISTIC)"
+	@mvn -q exec:java -Dexec.mainClass="$(ORIGINAL_MAIN)" -Dexec.args="$(HEURISTIC)"
 
 # Crear JAR para distribución
 jar: compile
 	@echo "=== Creando JAR ejecutable con Maven ==="
-	mvn package
+	@mvn -q package
 	@echo "✓ JAR creado: $(TARGET_DIR)/paradigmas25-g02-lab2-1.0-SNAPSHOT.jar"
 
 # Benchmark comparativo (secuencial vs distribuido)
 benchmark: compile
 	@echo "=== Ejecutando benchmark comparativo ==="
 	@echo "1. Versión original (secuencial):"
-	time mvn -q exec:java -Dexec.mainClass="$(ORIGINAL_MAIN)" -Dexec.args="$(HEURISTIC)"
+	@time mvn -q exec:java -Dexec.mainClass="$(ORIGINAL_MAIN)" -Dexec.args="$(HEURISTIC)"
 	@echo ""
 	@echo "2. Versión Spark (distribuida):"
-	time MAVEN_OPTS="$(JAVA_OPTS)" mvn -q exec:java -Dexec.mainClass="$(MAIN_CLASS)" -Dexec.args="$(HEURISTIC)"
+	@time MAVEN_OPTS="$(JAVA_OPTS)" mvn -q exec:java -Dexec.mainClass="$(MAIN_CLASS)" -Dexec.args="$(HEURISTIC)"
 
 # Limpiar archivos compilados
 clean:
 	@echo "=== Limpiando archivos compilados ==="
-	mvn clean
+	@mvn -q clean
 	@echo "✓ Limpieza completada"
 
 # Debug - mostrar información del entorno
 debug:
 	@echo "=== Información de debug ==="
 	@echo "Java version:"
-	java -version
+	@java -version
 	@echo ""
 	@echo "Maven version:"
-	mvn -version
+	@mvn -version
 	@echo ""
 	@echo "Archivos Java encontrados:"
 	@find $(SRC_DIR) -name "*.java" | head -10
@@ -116,4 +114,3 @@ debug:
 	@echo "MAIN_CLASS: $(MAIN_CLASS)"
 	@echo "HEURISTIC: $(HEURISTIC)"
 	@echo "SPARK_MASTER: $(SPARK_MASTER)"
-

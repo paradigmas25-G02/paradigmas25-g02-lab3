@@ -180,7 +180,7 @@ urlsRDD
 *En nuestro proyecto:*
 ⁠ java
 // Particionamiento controlado
-JavaRDD<String> urlsRDD = jsc.parallelize(urls, urls.size()));
+JavaRDD<String> urlsRDD = jsc.parallelize(urls, urls.size());
 
 // Transformaciones lazy (no se ejecutan hasta collect())
 JavaRDD<NamedEntity> entitiesRDD = urlsRDD
@@ -282,7 +282,7 @@ JavaPairRDD<String, Integer> countsRDD = entitiesRDD
  ⁠
 
 ## Autores
-•⁠  ⁠*Grupo*: paradigmas25-g02
+•⁠  ⁠*Grupo*: Nehuen Guevara, Ignacio Hernandez, Andres Villagra y Clemente Ivetta
 •⁠  ⁠*Laboratorio*: 3 - Procesamiento Distribuido con Apache Spark
 •⁠  ⁠*Fecha*: Junio 2025
 
@@ -294,6 +294,6 @@ La implementación exitosa demuestra que:
 2.⁠ ⁠*La programación funcional facilita la distribución* sin complejidad de concurrencia manual  
 3.⁠ ⁠*El modelo MapReduce es ideal* para agregación de datos distribuidos
 4.⁠ ⁠*Java 17 + Spark 3.5 son compatibles* con la configuración adecuada
-5.⁠ ⁠*El trade-off latencia/escalabilidad* es fundamental en sistemas distribuidos
+5.⁠ ⁠*El trade-off latencia/escalabilidad* es importante en sistemas distribuidos
 
-El proyecto implementa exitosamente todos los requisitos de distribución, proporciona comparación con la versión secuencial, y demuestra los principios fundamentales del procesamiento distribuido de big data.
+El proyecto implementa los requisitos de distribución, proporciona comparación con la versión secuencial, y demuestra los principios fundamentales del procesamiento distribuido de big data.
