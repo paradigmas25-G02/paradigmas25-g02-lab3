@@ -144,10 +144,7 @@ public class SparkFeedFetcher {
         System.out.println("Total entidades únicas: " + results.size());
         
         for (Tuple2<String, Integer> result : results) {
-            if(result._2()>10){
-
-                System.out.println(result._1() + ": " + result._2());
-            }
+            System.out.println(result._1() + ": " + result._2());
         }
     }
 }
